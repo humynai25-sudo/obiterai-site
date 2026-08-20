@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/048ujolizy8zc.css","style"]
+:HL["/_next/static/media/fraunces_latin_wght_italic-s.p.0by3gh2t3oa9b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fraunces_latin_wght_normal-s.p.1v4l5w6-86t-v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/hanken_grotesk_latin_wght_normal-s.p.3241148m1u9do.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/playfair_display_latin_wght_italic-s.p.3wz967ibaache.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/playfair_display_latin_wght_normal-s.p.1izqcz-wkfvza.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/1y_g96i1zzp_y.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"solutions","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"L_buSuJCsVlabF4cEbME5"}

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/1mbm7v84wznzy.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+:HL["/_next/static/chunks/1y_g96i1zzp_y.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"demo-module__jbkabG__page","data-tone":"dark","children":["$","section",null,{"className":"demo-module__jbkabG__column","children":[["$","p",null,{"className":"Eyebrow-module__1T-EHq__eyebrow","children":"By invitation"}],["$","h1",null,{"className":"demo-module__jbkabG__title","children":"Request a Demo"}],["$","p",null,{"className":"demo-module__jbkabG__para","children":"Obiter is not sold, and there is no sign-up. A small number of firms work with it, and access to a demonstration is extended by invitation."}],["$","p",null,{"className":"demo-module__jbkabG__para","children":"Write to us. Tell us about your practice, and we will take it from there."}],["$","p",null,{"className":"demo-module__jbkabG__email","children":"obiteraiadmin@gmail.com"}]]}]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1y_g96i1zzp_y.css","precedence":"next"}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"L_buSuJCsVlabF4cEbME5"}
+4:null
